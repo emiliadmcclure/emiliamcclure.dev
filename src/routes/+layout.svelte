@@ -10,8 +10,8 @@
 <nav class="mb-4 flex justify-between bg-blue-600 px-4 py-2 text-xl text-white sm:h-24">
 	<div class="container mx-auto sm:flex sm:justify-between">
 		<div class="flex items-center justify-between space-x-2">
-			<a href="/" class="mr-0 text-2xl font-extrabold text-green-400 sm:mr-6">DM</a>
-			<span class="font-bold sm:hidden">Devon McClure</span>
+			<a href="/" class="mr-0 text-2xl font-extrabold text-green-400 sm:mr-6">EM</a>
+			<span class="font-bold sm:hidden">Emilia McClure</span>
 			<a class="hidden rounded px-2 py-1 hover:bg-green-500 sm:block" href="/">Home</a>
 			<a class="hidden rounded px-2 py-1 hover:bg-green-500 sm:block" href="/projects">Projects</a>
 			<!-- <a class="hidden rounded px-2 py-1 hover:bg-red-500 sm:block" href="/musings">Musings</a> -->
@@ -39,16 +39,16 @@
 				<a class="rounded px-2 py-1 hover:bg-green-500 sm:hidden" href="/projects">Projects</a>
 				<!-- <a class="rounded px-2 py-1 hover:bg-red-500 sm:hidden" href="/musings">Musings</a> -->
 				<hr class="my-4 border-white sm:hidden" />
-				<a class="rounded px-2 py-1 hover:bg-green-500" href="mailto:contact@devonmcclure.dev">Email</a>
+				<a class="rounded px-2 py-1 hover:bg-green-500" href="mailto:contact@emiliamcclure.dev">Email</a>
 				<a
 					class="rounded px-2 py-1 hover:bg-green-500"
-					href="https://github.com/devonrmcclure"
+					href="https://github.com/emiliadmcclure"
 					target="_blank"
 					rel="noopener noreferrer">GitHub</a
 				>
 				<a
 					class="rounded px-2 py-1 hover:bg-green-500"
-					href="https://www.linkedin.com/in/devon-r-mcclure"
+					href="https://www.linkedin.com/in/emilia-d-mcclure"
 					target="_blank"
 					rel="noopener noreferrer">LinkedIn</a
 				>
@@ -61,7 +61,7 @@
 	<slot />
 </main>
 
-<footer class="container mx-auto flex justify-center p-4 text-green-500 sm:px-0">Devon McClure &copy; 2023</footer>
+<footer class="container mx-auto flex justify-center p-4 text-green-500 sm:px-0">Emilia McClure &copy; 2026</footer>
 
 <style lang="postcss">
 	:global(html) {
