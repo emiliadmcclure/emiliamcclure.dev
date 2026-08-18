@@ -41,7 +41,7 @@
 				<h3 class="text-xl font-bold">Main Site</h3>
 				<a
 					class=" text-green-400 hover:text-green-500"
-					href="https://github.com/phinocio/loadorderlibrary"
+					href="https://github.com/phinocio/loadorderlibrary-frontend"
 					target="_blank"
 					rel="noopener noreferrer">GitHub Repo</a
 				>
@@ -56,8 +56,7 @@
 					Load Order Library is a website I created to help with sharing modlist load orders for varying games
 					like Skyrim and Fallout 4. The intention is to provide a convenient way for list users to get
 					support, and for list authors to provide an easy view of what mods are in a given list. The website
-					is created using PHP, Laravel Framework, JavaScript, Bootstrap, and other technologies. It is hosted
-					on a Linux Server and makes use of Docker to containerize the application.
+					is created using PHP, Laravel Framework, JavaScript, Tailwind, React, and other technologies.
 				</p>
 				<!-- <img
 					class="h-48 w-full self-center object-cover text-center md:h-full md:w-1/2"
@@ -69,7 +68,7 @@
 				<h3 class="text-xl font-bold">API</h3>
 				<a
 					class=" text-green-400 hover:text-green-500"
-					href="https://github.com/phinocio/loadorderlibrary"
+					href="https://github.com/phinocio/loadorderlibrary-api"
 					target="_blank"
 					rel="noopener noreferrer">GitHub Repo</a
 				>
