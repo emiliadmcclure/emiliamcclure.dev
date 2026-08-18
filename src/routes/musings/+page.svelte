@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Devon McClure - Musings</title>
+	<title>Emilia McClure - Musings</title>
 </svelte:head>
 
 <div class="flex justify-center">

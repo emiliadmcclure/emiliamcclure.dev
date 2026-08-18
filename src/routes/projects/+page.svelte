@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Devon McClure - Projects</title>
+	<title>Emilia McClure - Projects</title>
 </svelte:head>
 
 <h1 class="mb-6 border-b border-slate-700 pb-4 text-3xl font-bold">Projects</h1>
